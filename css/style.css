@@ -263,3 +263,20 @@
 
 
 
+
+.main-answers{
+
+  width: 1110px;
+  height: 452px;
+  display: flex;
+  flex-direction: column;
+  align-items: start;
+  justify-content: space-between;
+  color: #F7654A;
+
+}
+
+
+
+
+
